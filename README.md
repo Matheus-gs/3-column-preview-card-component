@@ -13,9 +13,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -126,11 +124,6 @@ google fonts that were used in this project:
 
 - Website - [Matheus Gomes](https://www.your-site.com)
 - Frontend Mentor - [@Matheus-gs](https://www.frontendmentor.io/profile/yourusername)
-
-
-## Acknowledgments
-
-I would like to thank [mayk brito](https://github.com/maykbrito) from RocketSeat for creating a simple project in codePen showing the scroll properties of the css that I used in this project and I really liked it. And I would also like to thank [Isadora Stangarlin](https://www.instagram.com/papodedev/) for encouraging people to study through challenges available on the [FrontEnd Mentor](https://www.frontendmentor.io/solutions).
 
 
 ## see the project on GitHub Pages [Project](https://matheus-gs.github.io/3-column-preview-card-component/)
